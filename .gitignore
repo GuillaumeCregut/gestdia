@@ -1,0 +1,10 @@
+templates_c/
+Old/
+tests/
+a_voir/
+squelette.php
+test*
+dev.txt
+include/config.inc.php
+albums/*
+!albums/.gitkeep

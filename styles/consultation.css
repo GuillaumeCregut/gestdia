@@ -1,0 +1,66 @@
+.row_list
+{
+	
+}
+.radioBtn
+{
+	display : block;
+	color : red;
+}
+#ensemble
+{
+	display : flex;
+	flex-direction : row;
+}
+#droite
+{
+	width : 65%;
+/*	border-style : inset;
+	border-width : 1px;*/
+}
+#gauche
+{
+	width : 35%;
+/*	border-style : inset;
+	border-width : 1px;*/
+}
+#ListeConsult
+{
+	border-style : inset;
+	border-width : 5px;
+	width : 30%;
+	margin : 10px;
+	padding : 5px;
+}
+.row_list
+{
+	padding-left : 10px;
+	margin-top :1px;
+	margin-bottom : 1px;
+}
+.row_list:hover
+{
+	background-color : blue;
+	cursor : help;
+}
+#listes
+{
+	border-style : inset;
+	border-width : 5px;
+	margin : 10px;
+	padding : 5px;
+	display : none;
+	width : 30%;
+}
+.VoirDetail
+{
+	margin-top : 15px;
+}
+#infos
+{
+	border-style : inset;
+	border-width : 2px;
+	margin : 10px;
+	padding : 5px;
+	width : 30%;
+}
